@@ -1,0 +1,16 @@
+Steps to Create a VPC
+1. Create a VPC
+2. Create an Internet Gateway
+3. Attach the internet Gateway to the VPC
+4. Create the public subnets
+5. Create Public Route Table
+6. Add a public Route to the Public Route Table
+7. Associate the public subnets with the public Route Table
+8. Create the private subnets
+9 Create the security Groups
+###NOTE###
+The Security Groups to be Created are 
+ALB- Application load balancer
+SSH
+EC2
+RDS --AN RDS DATABASE
